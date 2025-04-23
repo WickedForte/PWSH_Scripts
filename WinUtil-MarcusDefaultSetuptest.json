@@ -1,0 +1,247 @@
+{
+  "Install": [
+    {
+      "winget": "XBMCFoundation.Kodi",
+      "choco": "kodi"
+    },
+    {
+      "winget": "KDE.KDEConnect",
+      "choco": "kdeconnect-kde"
+    },
+    {
+      "winget": "Git.Git",
+      "choco": "git"
+    },
+    {
+      "winget": "Docker.DockerDesktop",
+      "choco": "docker-desktop"
+    },
+    {
+      "winget": "Spotify.Spotify",
+      "choco": "spotify"
+    },
+    {
+      "winget": "KeePassXCTeam.KeePassXC",
+      "choco": "keepassxc"
+    },
+    {
+      "winget": "Microsoft.PowerAutomateDesktop",
+      "choco": "powerautomatedesktop"
+    },
+    {
+      "winget": "Microsoft.PowerToys",
+      "choco": "powertoys"
+    },
+    {
+      "winget": "Emulationstation.Emulationstation",
+      "choco": "emulationstation"
+    },
+    {
+      "winget": "RamenSoftware.Windhawk",
+      "choco": "windhawk"
+    },
+    {
+      "winget": "Ubisoft.Connect",
+      "choco": "ubisoft-connect"
+    },
+    {
+      "winget": "Famatech.AdvancedIPScanner",
+      "choco": "advanced-ip-scanner"
+    },
+    {
+      "winget": "Google.GoogleDrive",
+      "choco": "googledrive"
+    },
+    {
+      "winget": "gerardog.gsudo",
+      "choco": "gsudo"
+    },
+    {
+      "winget": "Plex.Plex",
+      "choco": "plex"
+    },
+    {
+      "winget": "Notepad++.Notepad++",
+      "choco": "notepadplusplus"
+    },
+    {
+      "winget": "Microsoft.OneDrive",
+      "choco": "onedrive"
+    },
+    {
+      "winget": "Microsoft.VisualStudioCode",
+      "choco": "vscode"
+    },
+    {
+      "winget": "HermannSchinagl.LinkShellExtension",
+      "choco": "linkshellextension"
+    },
+    {
+      "winget": "Microsoft.PowerShell",
+      "choco": "powershell-core"
+    },
+    {
+      "winget": "Microsoft.VCRedist.2015+.x64",
+      "choco": "na"
+    },
+    {
+      "winget": "Microsoft.Sysinternals.RDCMan",
+      "choco": "rdcman"
+    },
+    {
+      "winget": "JetBrains.Toolbox",
+      "choco": "jetbrainstoolbox"
+    },
+    {
+      "winget": "SomePythonThings.WingetUIStore",
+      "choco": "wingetui"
+    },
+    {
+      "winget": "OpenWhisperSystems.Signal",
+      "choco": "signal"
+    },
+    {
+      "winget": "mRemoteNG.mRemoteNG",
+      "choco": "mremoteng"
+    },
+    {
+      "winget": "Microsoft.Sysinternals.ProcessMonitor",
+      "choco": "procexp"
+    },
+    {
+      "winget": "RevoUninstaller.RevoUninstaller",
+      "choco": "revo-uninstaller"
+    },
+    {
+      "winget": "CodecGuide.K-LiteCodecPack.Standard",
+      "choco": "k-litecodecpack-standard"
+    },
+    {
+      "winget": "Valve.Steam",
+      "choco": "steam-client"
+    },
+    {
+      "winget": "Microsoft.WindowsTerminal",
+      "choco": "microsoft-windows-terminal"
+    },
+    {
+      "winget": "GitHub.cli",
+      "choco": "git;gh"
+    },
+    {
+      "winget": "EpicGames.EpicGamesLauncher",
+      "choco": "epicgameslauncher"
+    },
+    {
+      "winget": "Discord.Discord",
+      "choco": "discord"
+    },
+    {
+      "winget": "PlayStation.PSRemotePlay",
+      "choco": "ps-remote-play"
+    },
+    {
+      "winget": "clsid2.mpc-hc",
+      "choco": "mpc-hc-clsid2"
+    },
+    {
+      "winget": "Microsoft.VCRedist.2015+.x86",
+      "choco": "na"
+    },
+    {
+      "winget": "VideoLAN.VLC",
+      "choco": "vlc"
+    },
+    {
+      "winget": "GitHub.GitHubDesktop",
+      "choco": "git;github-desktop"
+    },
+    {
+      "winget": "Apple.iTunes",
+      "choco": "itunes"
+    },
+    {
+      "winget": "7zip.7zip",
+      "choco": "7zip"
+    },
+    {
+      "winget": "MoonlightGameStreamingProject.Moonlight",
+      "choco": "moonlight-qt"
+    },
+    {
+      "winget": "ElectronicArts.EADesktop",
+      "choco": "ea-app"
+    }
+  ],
+  "WPFFeature": [
+    "WPFFeaturewsl",
+    "WPFFeatureEnableLegacyRecovery",
+    "WPFFeatureshyperv",
+    "WPFFeatureDisableSearchSuggestions",
+    "WPFFeaturenfs",
+    "WPFFeaturesSandbox",
+    "WPFFeaturesdotnet",
+    "WPFFeatureslegacymedia"
+  ],
+  "WPFInstall": [
+    "WPFInstallkodi",
+    "WPFInstallkdeconnect",
+    "WPFInstallgit",
+    "WPFInstalldockerdesktop",
+    "WPFInstallspotify",
+    "WPFInstallkeepass",
+    "WPFInstallpowerautomate",
+    "WPFInstallpowertoys",
+    "WPFInstallemulationstation",
+    "WPFInstallWindhawk",
+    "WPFInstallubisoft",
+    "WPFInstalladvancedip",
+    "WPFInstallgoogledrive",
+    "WPFInstallgsudo",
+    "WPFInstallplexdesktop",
+    "WPFInstallnotepadplus",
+    "WPFInstallonedrive",
+    "WPFInstallvscode",
+    "WPFInstalllinkshellextension",
+    "WPFInstallpowershell",
+    "WPFInstallvc2015_64",
+    "WPFInstallrdcman",
+    "WPFInstalljetbrains",
+    "WPFInstallwingetui",
+    "WPFInstallsignal",
+    "WPFInstallmremoteng",
+    "WPFInstallprocessmonitor",
+    "WPFInstallrevo",
+    "WPFInstallklite",
+    "WPFInstallsteam",
+    "WPFInstallterminal",
+    "WPFInstallgithubcli",
+    "WPFInstallepicgames",
+    "WPFInstalldiscord",
+    "WPFInstallpsremoteplay",
+    "WPFInstallmpchc",
+    "WPFInstallvc2015_32",
+    "WPFInstallvlc",
+    "WPFInstallgithubdesktop",
+    "WPFInstallitunes",
+    "WPFInstall7zip",
+    "WPFInstallmoonlight",
+    "WPFInstalleaapp"
+  ],
+  "WPFTweaks": [
+    "WPFTweaksIPv46",
+    "WPFTweaksServices",
+    "WPFTweaksRecallOff",
+    "WPFTweaksBlockAdobeNet",
+    "WPFTweaksTele",
+    "WPFTweaksPowershell7Tele",
+    "WPFTweaksDisableBGapps",
+    "WPFTweaksEdgeDebloat",
+    "WPFTweaksWifi",
+    "WPFTweaksRazerBlock",
+    "WPFTweaksDiskCleanup",
+    "WPFTweaksDisplay",
+    "WPFTweaksDeleteTempFiles",
+    "WPFTweaksTeredo"
+  ]
+}
