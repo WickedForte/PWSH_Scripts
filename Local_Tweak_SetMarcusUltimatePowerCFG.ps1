@@ -1,3 +1,6 @@
+# Manage installation of Marcus Bowling's Ultimate Performance power plan
+# Run this script with administrator privileges
+
 Function Invoke-WPFUltimatePerformance {
 	#$State = "Enable"
 	$State = Read-Host "Type Enable or Disable"
@@ -51,7 +54,7 @@ Function Invoke-WPFUltimatePerformance {
 
         } elseif ($State -eq "Disable") {
             # Check if the Ultimate Performance plan is installed by GUID
-            $installedPlan = (powercfg -list | Select-String -Pattern "ChrisTitus - Ultimate Power Plan").Line.Split()[3]
+            $installedPlan = (powercfg -list | Select-String -Pattern "Marcus Bowling's Ultimate Power Plan").Line.Split()[3]
 
             if ($installedPlan) {
                 # Extract the GUID of the installed Ultimate Performance plan
