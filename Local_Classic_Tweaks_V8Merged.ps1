@@ -1,4 +1,7 @@
-﻿param(
+# Script to apply classic Windows tweaks
+# Intended for administrative use
+
+param(
     [ValidateSet("Minimal", "Full")]
     [string]$Mode
 )
